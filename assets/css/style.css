@@ -93,7 +93,9 @@ p {
 
 .btn:hover,
 .btn:focus {
-  color: #fff;
+  /* color: #fff; */
+  color: #000000;
+  background: #b8a07e;
 }
 
 .padDiv {
